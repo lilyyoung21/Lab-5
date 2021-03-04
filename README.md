@@ -1,11 +1,10 @@
 # Lab-5
 Contributors: Lily, Tolu, and Noah
-The code that was written requested for the the input of a name and a persons favourite food and made a sentence with it
 
 ## Contributors 
 Lily, Tolu, and Noah
 ## What does the program do?
-This program takes in a name and your favorite food and prints them.
+The code that was written requested for the the input of a name and a persons favourite food and made a sentence with it, printing it out.
 ## The Code 
     def main():
         name = input(prompt="Please enter name.")
